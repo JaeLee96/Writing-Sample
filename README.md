@@ -1,2 +1,3 @@
 # Writing-Sample
-Paper on the book 'The Queue' and Arab Spring
+- Paper on the book 'The Queue' and Arab Spring
+- Scholarship essay
